@@ -1,6 +1,15 @@
-# EmployeeManagerApp
+# EmployeeManagerApp (Frontend)
+### This repository is for learning how to create a REST API.
+### The application allows you to add, delete, update and search employees in the system.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
+## Main Features
+* Add Employee
+* Find Employee by name
+* Delete Employee
+* Update employee
+
+
+This project [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
 ## Development server
 
